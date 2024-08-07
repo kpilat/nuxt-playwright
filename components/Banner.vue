@@ -11,7 +11,7 @@
 					<p class="max-w-[800px]">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae culpa deleniti
 						deserunt dicta dolorem dolorum enim, exercitationem expedita fuga, impedit ipsum praesentium quo
-						recusandae repellendus suscipit tempora tempore vel, veniam!
+						recusandae repellendus suscipit vel, veniam!
 					</p>
 				</div>
 				<NuxtPicture
